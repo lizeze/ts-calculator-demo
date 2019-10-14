@@ -1,0 +1,29 @@
+.calcuContainer{
+    display: inline-block;
+    
+}
+
+
+.button{
+    width: 4rem;
+    height: 2rem;
+}
+.buttonContainer .button-clear{
+    width: 12rem;
+}
+.buttonContainer .button-0{
+    width: 8rem;
+}
+.calcuContainer .output{
+
+    border:1px solid gray;
+    position: relative;
+    height: 2rem;
+
+}
+
+.calcuContainer .output span{
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+}
